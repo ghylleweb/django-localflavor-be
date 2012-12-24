@@ -1,0 +1,91 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# ming hsien tzang <tzangms@gmail.com>, 2011.
+# quantum9876 <quantum9876@gmail.com>, 2011.
+# tcc <tcchou@tcchou.org>, 2011.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-be\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:43-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: tcc <tcchou@tcchou.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+#: be_provinces.py:5
+msgid "Antwerp"
+msgstr "安特衛普"
+
+#: be_provinces.py:6
+msgid "Brussels"
+msgstr "布魯塞爾"
+
+#: be_provinces.py:7
+msgid "East Flanders"
+msgstr "東佛蘭德省"
+
+#: be_provinces.py:8
+msgid "Flemish Brabant"
+msgstr "法蘭德斯-布拉班特省"
+
+#: be_provinces.py:9
+msgid "Hainaut"
+msgstr "埃諾省"
+
+#: be_provinces.py:10
+msgid "Liege"
+msgstr "烈日省"
+
+#: be_provinces.py:11
+msgid "Limburg"
+msgstr "林堡"
+
+#: be_provinces.py:12
+msgid "Luxembourg"
+msgstr "盧森堡"
+
+#: be_provinces.py:13
+msgid "Namur"
+msgstr "那慕爾"
+
+#: be_provinces.py:14
+msgid "Walloon Brabant"
+msgstr "布拉班特-瓦隆"
+
+#: be_provinces.py:15
+msgid "West Flanders"
+msgstr "西佛蘭德省"
+
+#: be_regions.py:5
+msgid "Brussels Capital Region"
+msgstr "布魯塞爾"
+
+#: be_regions.py:6
+msgid "Flemish Region"
+msgstr "法蘭德斯區"
+
+#: be_regions.py:7
+msgid "Wallonia"
+msgstr "瓦隆"
+
+#: forms.py:25
+msgid "Enter a valid postal code in the range and format 1XXX - 9XXX."
+msgstr "以 1XXX - 9XXX 為範圍、格式輸入郵遞區號。"
+
+#: forms.py:48
+msgid ""
+"Enter a valid phone number in one of the formats 0x xxx xx xx, 0xx xx xx xx,"
+" 04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, 0x.xxx.xx.xx, "
+"0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx or 04xxxxxxxx."
+msgstr ""
+"以 0x xxx xx xx, 0xx xx xx xx, 04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, "
+"04xx/xx.xx.xx, 0x.xxx.xx.xx, 0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx 或 "
+"04xxxxxxxx 其中之一為格式，輸入電話號碼。"

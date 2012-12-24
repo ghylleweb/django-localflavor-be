@@ -1,0 +1,90 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+#   <vvangelovski@gmail.com>, 2012.
+# vvangelovski <vvangelovski@gmail.com>, 2011.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-be\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:43-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: vvangelovski <vvangelovski@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1\n"
+
+#: be_provinces.py:5
+msgid "Antwerp"
+msgstr "Антверп"
+
+#: be_provinces.py:6
+msgid "Brussels"
+msgstr "Брисел"
+
+#: be_provinces.py:7
+msgid "East Flanders"
+msgstr "Источен Фландерс"
+
+#: be_provinces.py:8
+msgid "Flemish Brabant"
+msgstr "Фламански Брабант"
+
+#: be_provinces.py:9
+msgid "Hainaut"
+msgstr "Хаинаут"
+
+#: be_provinces.py:10
+msgid "Liege"
+msgstr "Лиж"
+
+#: be_provinces.py:11
+msgid "Limburg"
+msgstr "Лимбург"
+
+#: be_provinces.py:12
+msgid "Luxembourg"
+msgstr "Луксембург"
+
+#: be_provinces.py:13
+msgid "Namur"
+msgstr "Намур"
+
+#: be_provinces.py:14
+msgid "Walloon Brabant"
+msgstr "Валун Брабант"
+
+#: be_provinces.py:15
+msgid "West Flanders"
+msgstr "Западен Фландерс"
+
+#: be_regions.py:5
+msgid "Brussels Capital Region"
+msgstr "Брисел Престолничен Регион"
+
+#: be_regions.py:6
+msgid "Flemish Region"
+msgstr "Фламански Регион"
+
+#: be_regions.py:7
+msgid "Wallonia"
+msgstr "Валониа"
+
+#: forms.py:25
+msgid "Enter a valid postal code in the range and format 1XXX - 9XXX."
+msgstr "Внесете валиден поштенски број во форматот 1XXX - 9XXX."
+
+#: forms.py:48
+msgid ""
+"Enter a valid phone number in one of the formats 0x xxx xx xx, 0xx xx xx xx,"
+" 04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, 0x.xxx.xx.xx, "
+"0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx or 04xxxxxxxx."
+msgstr ""
+"Внесете валиден телефонски број во еден од следниве формати: 0x xxx xx xx, "
+"0xx xx xx xx, 04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, "
+"0x.xxx.xx.xx, 0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx or 04xxxxxxxx."

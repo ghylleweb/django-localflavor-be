@@ -1,0 +1,92 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# angularcircle <angular.circle@gmail.com>, 2011.
+#   <angular.circle@gmail.com>, 2012.
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# konryd <konryd@gmail.com>, 2011.
+# Roman Barczyński <rombar@gmail.com>, 2012.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-be\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:43-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Roman Barczyński <rombar@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+
+#: be_provinces.py:5
+msgid "Antwerp"
+msgstr "Antwerpia"
+
+#: be_provinces.py:6
+msgid "Brussels"
+msgstr "Bruksela"
+
+#: be_provinces.py:7
+msgid "East Flanders"
+msgstr "Flandria Wschodnia"
+
+#: be_provinces.py:8
+msgid "Flemish Brabant"
+msgstr "Brabancja Flamandzka"
+
+#: be_provinces.py:9
+msgid "Hainaut"
+msgstr ""
+
+#: be_provinces.py:10
+msgid "Liege"
+msgstr ""
+
+#: be_provinces.py:11
+msgid "Limburg"
+msgstr "Limburgia"
+
+#: be_provinces.py:12
+msgid "Luxembourg"
+msgstr "Luksemburg"
+
+#: be_provinces.py:13
+msgid "Namur"
+msgstr ""
+
+#: be_provinces.py:14
+msgid "Walloon Brabant"
+msgstr "Brabancja Walońska"
+
+#: be_provinces.py:15
+msgid "West Flanders"
+msgstr "Flandria Zachodnia"
+
+#: be_regions.py:5
+msgid "Brussels Capital Region"
+msgstr "Region Stołeczny Brukseli"
+
+#: be_regions.py:6
+msgid "Flemish Region"
+msgstr "Region Flamandzki"
+
+#: be_regions.py:7
+msgid "Wallonia"
+msgstr "Walonia"
+
+#: forms.py:25
+msgid "Enter a valid postal code in the range and format 1XXX - 9XXX."
+msgstr "Wpisz kod pocztowy w zakresie i formacie 1XXX - 9XXX."
+
+#: forms.py:48
+msgid ""
+"Enter a valid phone number in one of the formats 0x xxx xx xx, 0xx xx xx xx,"
+" 04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, 0x.xxx.xx.xx, "
+"0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx or 04xxxxxxxx."
+msgstr ""
+"Wpisz poprawny numer telefoniczny w formacie 0x xxx xx xx, 0xx xx xx xx, "
+"04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, 0x.xxx.xx.xx, "
+"0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx lub 04xxxxxxxx."

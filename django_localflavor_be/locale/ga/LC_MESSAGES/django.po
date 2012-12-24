@@ -1,0 +1,89 @@
+# This file is distributed under the same license as the Django package.
+# 
+# Translators:
+# Jannis Leidel <jannis@leidel.info>, 2011.
+# Michael Thornhill <michael@maithu.com>, 2011, 2012.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: django-localflavor-be\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-20 16:43-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Michael Thornhill <michael@maithu.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4)\n"
+
+#: be_provinces.py:5
+msgid "Antwerp"
+msgstr ""
+
+#: be_provinces.py:6
+msgid "Brussels"
+msgstr "An Bhruiséil"
+
+#: be_provinces.py:7
+msgid "East Flanders"
+msgstr "Flóndras Oirthear"
+
+#: be_provinces.py:8
+msgid "Flemish Brabant"
+msgstr "Brabant Pléimeannach"
+
+#: be_provinces.py:9
+msgid "Hainaut"
+msgstr ""
+
+#: be_provinces.py:10
+msgid "Liege"
+msgstr ""
+
+#: be_provinces.py:11
+msgid "Limburg"
+msgstr ""
+
+#: be_provinces.py:12
+msgid "Luxembourg"
+msgstr "Lucsamburg"
+
+#: be_provinces.py:13
+msgid "Namur"
+msgstr ""
+
+#: be_provinces.py:14
+msgid "Walloon Brabant"
+msgstr ""
+
+#: be_provinces.py:15
+msgid "West Flanders"
+msgstr ""
+
+#: be_regions.py:5
+msgid "Brussels Capital Region"
+msgstr "Caipitil Réigiún na Bhruiséil"
+
+#: be_regions.py:6
+msgid "Flemish Region"
+msgstr "Réigiún Pléimeannach"
+
+#: be_regions.py:7
+msgid "Wallonia"
+msgstr ""
+
+#: forms.py:25
+msgid "Enter a valid postal code in the range and format 1XXX - 9XXX."
+msgstr "Cuir isteach cód poist bailí sa raon agus formáid 1XXX - 9XXX."
+
+#: forms.py:48
+msgid ""
+"Enter a valid phone number in one of the formats 0x xxx xx xx, 0xx xx xx xx,"
+" 04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, 0x.xxx.xx.xx, "
+"0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx or 04xxxxxxxx."
+msgstr ""
+"Cuir isteach uimhir theileafóin bailí i gceann de na formáidí 0x xxx xx xx, "
+"0xx xx xx xx, 04xx xx xx xx, 0x/xxx.xx.xx, 0xx/xx.xx.xx, 04xx/xx.xx.xx, "
+"0x.xxx.xx.xx, 0xx.xx.xx.xx, 04xx.xx.xx.xx, 0xxxxxxxx nó 04xxxxxxxx."
