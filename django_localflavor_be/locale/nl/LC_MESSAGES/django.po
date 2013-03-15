@@ -39,7 +39,7 @@ msgstr "Vlaams-Brabant"
 
 #: be_provinces.py:9
 msgid "Hainaut"
-msgstr ""
+msgstr "Henegouwen"
 
 #: be_provinces.py:10
 msgid "Liege"
@@ -75,7 +75,7 @@ msgstr "Vlaamse Gewest"
 
 #: be_regions.py:7
 msgid "Wallonia"
-msgstr "Wallonië"
+msgstr "Waals Gewest"
 
 #: forms.py:25
 msgid "Enter a valid postal code in the range and format 1XXX - 9XXX."
